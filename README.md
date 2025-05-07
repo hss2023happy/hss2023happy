@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm @hss2023happy</h1>
+<h1 align="center">Hi 👋, I'm huang ss</h1>
 <p align="center">
   🔍 Exploring Robotics | 🚗 SLAM & Perception | 🧠 Algorithm Enthusiast
 </p>
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **LiDAR-based SLAM**, **sensor fusion**, and **loop closure detection**  
 - 🔭 I’m interested in **robot localization**, **point cloud processing**, and **autonomous navigation**
 - 💬 Ask me about anything related to C++, MATLAB, or SLAM algorithms!
-- 📫 How to reach me: `your-email@example.com` | [LinkedIn](https://linkedin.com/in/yourprofile) | [Blog/Portfolio](https://your-site.com)
+- 📫 How to reach me: `hss2023happy@163.com` | [LinkedIn](https://linkedin.com/in/yourprofile) | [Blog/Portfolio](https://your-site.com)
 - ⚡ Fun fact: I love visualizing point cloud data and optimizing real-time algorithms!
 
 ---
